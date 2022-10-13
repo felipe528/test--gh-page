@@ -1,0 +1,14 @@
+.fa-solid{
+    padding-left: 5px;
+}
+.navbar-brand{
+    padding-left: 3px;
+}
+.bg-light {
+    background-image: url("jelle-de-gier-SpP2HMH8_7s-unsplash.jpg") ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto;
+    width: 2000px;
+    height: 500px;
+}
